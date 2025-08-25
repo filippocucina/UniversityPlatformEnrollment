@@ -1,3 +1,10 @@
 ﻿#Settings
-.appsetting.json/
-*appsettings.Development.json
+*.appsetting.json
+obj/*
+*.UniversityEnrollmentPlatform.csproj
+*.UniversityEnrollmentPlatform.csproj.user
+*.UniversityEnrollmentPlatform.sln
+Properties/*
+*.appsettings.Development.json
+bin/*
+Migrations/*
