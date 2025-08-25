@@ -6,6 +6,6 @@ obj/*
 *.UniversityEnrollmentPlatform.sln
 Properties/*
 *.appsettings.Development.json
-bin/*
+.bin/*
 Migrations/*
 .vs/*
